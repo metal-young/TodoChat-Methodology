@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Mastering Productivity: An Introduction to the FoxFocus Zen Technique (FFZT)](README.md)
+* [Mastering Productivity: An Introduction to the Bamboo Focus Technique](README.md)
